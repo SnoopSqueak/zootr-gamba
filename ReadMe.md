@@ -6,11 +6,13 @@ It was created so that [Jiby6666](https://www.twitch.tv/jiby6666) and others can
 
 # How to use?
 
-Download the zootr-gambla-0.0.1.html file from this repository.
+Download the zootr-gamba-(version).html file from this repository.
 
 Run it in your web browser.
 
 Whenever you want a new seed, click "Generate". It will ask you where you would like to save it.
+
+![A screenshot showing an HTML file open in a web browser. Large text says "Click below to generate a new seed!"" There is a generate button. There is nothing else.](/screenshot_of_interface.png)
 
 # Can it do anything else?
 
